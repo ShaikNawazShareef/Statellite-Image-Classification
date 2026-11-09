@@ -96,7 +96,7 @@ Possible categories depend on the dataset used.
 
 ## 👨‍💻 Author
 
-**Nawaz Shaik**
+**Nawaz Shareef Shaik**
 
 GitHub: https://github.com/ShaikNawazShareef
 
